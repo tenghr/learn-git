@@ -3,6 +3,11 @@
 
 # Log file
 *.log
+<<<<<<< HEAD
+=======
+*.imi
+*.lst
+>>>>>>> 新增：第一次提交
 
 # BlueJ files
 *.ctxt
@@ -20,4 +25,13 @@
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea
+*.iml
+.settings/
+.project
+.classpath
+target/
+logs/
